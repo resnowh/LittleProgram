@@ -1,2 +1,2 @@
-# LittleProgram
-A basic little program we just do for fun.
+# Little Program
+A little program we just do it for fun.
